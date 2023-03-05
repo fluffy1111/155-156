@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../diver"
+		},
+		{
+			"path": "../sea floor"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pro153",
+		"liveServer.settings.port": 5501
+	}
+}
